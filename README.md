@@ -1,0 +1,2 @@
+# FAKE_NEWS
+FAKE_NEWS
